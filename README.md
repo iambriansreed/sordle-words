@@ -3,7 +3,7 @@
 Word bank for Sordle
 
 List
-https://words-sordle.iambrian.com/5-letter-words.txt
+https://iambrian.com/words-sordle/5-letter-words.txt
 
 Words
-https://words-sordle.iambrian.com/5-letter-words/aargh.json
+https://iambrian.com/words-sordle/5-letter-words/aargh.json
