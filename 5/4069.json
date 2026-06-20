@@ -1,1 +1,47 @@
-[{"word":"modem","phonetic":"/ˈməʊdəm/","phonetics":[{"text":"/ˈməʊdəm/","audio":""},{"text":"/ˈmoʊdəm/","audio":""}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"A device that encodes digital computer signals into analog/analogue telephone signals and vice versa and allows computers to communicate over a phone line.","synonyms":[],"antonyms":[]}],"synonyms":[],"antonyms":[]},{"partOfSpeech":"verb","definitions":[{"definition":"To transmit by modem.","synonyms":[],"antonyms":[]}],"synonyms":[],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/modem"]}]
+{
+  "word": "modem",
+  "phonetic": "/ˈməʊdəm/",
+  "phonetics": [
+    {
+      "text": "/ˈməʊdəm/",
+      "audio": ""
+    },
+    {
+      "text": "/ˈmoʊdəm/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "A device that encodes digital computer signals into analog/analogue telephone signals and vice versa and allows computers to communicate over a phone line.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "verb",
+      "definitions": [
+        {
+          "definition": "To transmit by modem.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/modem"
+  ]
+}

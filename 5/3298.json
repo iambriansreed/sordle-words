@@ -1,1 +1,36 @@
-[{"word":"julep","phonetic":"/ˈdʒuːlɛp/","phonetics":[{"text":"/ˈdʒuːlɛp/","audio":""}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"A refreshing drink flavored with aromatic herbs, especially mint, and sometimes alcohol.","synonyms":[],"antonyms":[]},{"definition":"A pleasant-tasting liquid medicine in which other nauseous medicines are taken.","synonyms":[],"antonyms":[]}],"synonyms":[],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/julep"]}]
+{
+  "word": "julep",
+  "phonetic": "/ˈdʒuːlɛp/",
+  "phonetics": [
+    {
+      "text": "/ˈdʒuːlɛp/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "A refreshing drink flavored with aromatic herbs, especially mint, and sometimes alcohol.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "definition": "A pleasant-tasting liquid medicine in which other nauseous medicines are taken.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/julep"
+  ]
+}

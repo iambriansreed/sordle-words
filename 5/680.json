@@ -1,1 +1,49 @@
-[{"word":"boded","phonetic":"/ˈbəʊdɪd/","phonetics":[{"text":"/ˈbəʊdɪd/","audio":""},{"text":"[ˈboʊ̯dɨd]","audio":""}],"meanings":[{"partOfSpeech":"verb","definitions":[{"definition":"To indicate by signs, as future events; to be an omen of; to portend or foretell.","synonyms":["foreshow","portend","presage"],"antonyms":[]},{"definition":"(followed by \"well\", \"ill\", \"no good\", etc.) To betoken or augur something good or bad that will happen in the future.","synonyms":[],"antonyms":[]}],"synonyms":["foreshow","portend","presage"],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/bode","https://en.wiktionary.org/wiki/boded"]}]
+{
+  "word": "boded",
+  "phonetic": "/ˈbəʊdɪd/",
+  "phonetics": [
+    {
+      "text": "/ˈbəʊdɪd/",
+      "audio": ""
+    },
+    {
+      "text": "[ˈboʊ̯dɨd]",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "verb",
+      "definitions": [
+        {
+          "definition": "To indicate by signs, as future events; to be an omen of; to portend or foretell.",
+          "synonyms": [
+            "foreshow",
+            "portend",
+            "presage"
+          ],
+          "antonyms": []
+        },
+        {
+          "definition": "(followed by \"well\", \"ill\", \"no good\", etc.) To betoken or augur something good or bad that will happen in the future.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [
+        "foreshow",
+        "portend",
+        "presage"
+      ],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/bode",
+    "https://en.wiktionary.org/wiki/boded"
+  ]
+}

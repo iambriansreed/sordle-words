@@ -1,1 +1,35 @@
-[{"word":"parka","phonetic":"/ˈpɑːkə/","phonetics":[{"text":"/ˈpɑːkə/","audio":""},{"text":"/ˈpɑɹkə/","audio":""}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"A long jacket with a hood which protects the wearer against rain and wind.","synonyms":[],"antonyms":[]}],"synonyms":[],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/parka"]}]
+{
+  "word": "parka",
+  "phonetic": "/ˈpɑːkə/",
+  "phonetics": [
+    {
+      "text": "/ˈpɑːkə/",
+      "audio": ""
+    },
+    {
+      "text": "/ˈpɑɹkə/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "A long jacket with a hood which protects the wearer against rain and wind.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/parka"
+  ]
+}

@@ -1,1 +1,27 @@
-[{"word":"ragus","phonetics":[],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"An Italian pasta sauce containing ground meat cooked with sautéed vegetables in tomato sauce or some other kind of liquid.","synonyms":[],"antonyms":[]}],"synonyms":[],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/rag%C3%B9","https://en.wiktionary.org/wiki/ragu","https://en.wiktionary.org/wiki/ragus"]}]
+{
+  "word": "ragus",
+  "phonetics": [],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "An Italian pasta sauce containing ground meat cooked with sautéed vegetables in tomato sauce or some other kind of liquid.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/rag%C3%B9",
+    "https://en.wiktionary.org/wiki/ragu",
+    "https://en.wiktionary.org/wiki/ragus"
+  ]
+}

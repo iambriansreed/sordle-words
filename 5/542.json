@@ -1,1 +1,36 @@
-[{"word":"beths","phonetics":[],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"The second letter of the Aramaic alphabet, 𐡁","synonyms":[],"antonyms":[]},{"definition":"The second letter of the Hebrew alphabet, ב","synonyms":[],"antonyms":[]},{"definition":"The second letter of the Syriac alphabet, ܒ","synonyms":[],"antonyms":[]}],"synonyms":[],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/beth","https://en.wiktionary.org/wiki/beths"]}]
+{
+  "word": "beths",
+  "phonetics": [],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "The second letter of the Aramaic alphabet, 𐡁",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "definition": "The second letter of the Hebrew alphabet, ב",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "definition": "The second letter of the Syriac alphabet, ܒ",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/beth",
+    "https://en.wiktionary.org/wiki/beths"
+  ]
+}

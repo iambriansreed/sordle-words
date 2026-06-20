@@ -1,1 +1,33 @@
-[{"word":"grike","phonetic":"/ɡɹaɪk/","phonetics":[{"text":"/ɡɹaɪk/","audio":""}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"A deep cleft formed in limestone surfaces due to water erosion; providing a unique habitat for plants.","synonyms":[],"antonyms":[]}],"synonyms":["scailp"],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/grike"]}]
+{
+  "word": "grike",
+  "phonetic": "/ɡɹaɪk/",
+  "phonetics": [
+    {
+      "text": "/ɡɹaɪk/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "A deep cleft formed in limestone surfaces due to water erosion; providing a unique habitat for plants.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [
+        "scailp"
+      ],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/grike"
+  ]
+}

@@ -1,1 +1,71 @@
-[{"word":"comic","phonetic":"/ˈkɒmɪk/","phonetics":[{"text":"/ˈkɒmɪk/","audio":""},{"text":"/ˈkɑmɪk/","audio":"https://api.dictionaryapi.dev/media/pronunciations/en/comic-us.mp3","sourceUrl":"https://commons.wikimedia.org/w/index.php?curid=1762645","license":{"name":"BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"}}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"A comedian.","synonyms":[],"antonyms":[]},{"definition":"A story composed of cartoon images arranged in sequence, usually with textual captions; a graphic novel.","synonyms":[],"antonyms":[]},{"definition":"A children's newspaper.","synonyms":[],"antonyms":[]}],"synonyms":[],"antonyms":[]},{"partOfSpeech":"adjective","definitions":[{"definition":"Funny; amusing; comical.","synonyms":[],"antonyms":[]},{"definition":"Relating to comedy.","synonyms":[],"antonyms":[],"example":"a comic stereotype"}],"synonyms":["comedic","comical"],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/comic"]}]
+{
+  "word": "comic",
+  "phonetic": "/ˈkɒmɪk/",
+  "phonetics": [
+    {
+      "text": "/ˈkɒmɪk/",
+      "audio": ""
+    },
+    {
+      "text": "/ˈkɑmɪk/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/comic-us.mp3",
+      "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1762645",
+      "license": {
+        "name": "BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "A comedian.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "definition": "A story composed of cartoon images arranged in sequence, usually with textual captions; a graphic novel.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "definition": "A children's newspaper.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definitions": [
+        {
+          "definition": "Funny; amusing; comical.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "definition": "Relating to comedy.",
+          "synonyms": [],
+          "antonyms": [],
+          "example": "a comic stereotype"
+        }
+      ],
+      "synonyms": [
+        "comedic",
+        "comical"
+      ],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/comic"
+  ]
+}

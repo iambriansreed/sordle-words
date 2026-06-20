@@ -1,1 +1,35 @@
-[{"word":"metic","phonetic":"/ˈmɛtɪk/","phonetics":[{"text":"/ˈmɛtɪk/","audio":""},{"text":"/ˈmɛtək/","audio":""}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"In Ancient Greek city-states, a resident alien who did not have the rights of a citizen and who paid a tax for the right to live there.","synonyms":[],"antonyms":[]}],"synonyms":[],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/metic"]}]
+{
+  "word": "metic",
+  "phonetic": "/ˈmɛtɪk/",
+  "phonetics": [
+    {
+      "text": "/ˈmɛtɪk/",
+      "audio": ""
+    },
+    {
+      "text": "/ˈmɛtək/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "In Ancient Greek city-states, a resident alien who did not have the rights of a citizen and who paid a tax for the right to live there.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/metic"
+  ]
+}

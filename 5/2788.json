@@ -1,1 +1,41 @@
-[{"word":"gurus","phonetic":"/ˈɡuː.ɹuːz/","phonetics":[{"text":"/ˈɡuː.ɹuːz/","audio":""},{"text":"/ɡuːˈɹuːz/","audio":""}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"A Hindu or Sikh spiritual teacher.","synonyms":[],"antonyms":[]},{"definition":"(sometimes humorous) An influential advisor or mentor.","synonyms":[],"antonyms":[]}],"synonyms":[],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/guru","https://en.wiktionary.org/wiki/gurus"]}]
+{
+  "word": "gurus",
+  "phonetic": "/ˈɡuː.ɹuːz/",
+  "phonetics": [
+    {
+      "text": "/ˈɡuː.ɹuːz/",
+      "audio": ""
+    },
+    {
+      "text": "/ɡuːˈɹuːz/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "A Hindu or Sikh spiritual teacher.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "definition": "(sometimes humorous) An influential advisor or mentor.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/guru",
+    "https://en.wiktionary.org/wiki/gurus"
+  ]
+}

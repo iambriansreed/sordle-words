@@ -1,1 +1,35 @@
-[{"word":"cozen","phonetic":"/ˈkəʊzən/","phonetics":[{"text":"/ˈkəʊzən/","audio":""},{"text":"/ˈkoʊzən/","audio":""}],"meanings":[{"partOfSpeech":"verb","definitions":[{"definition":"To become cozy; (by extension) to become acquainted, comfortable, or familiar with.","synonyms":[],"antonyms":[]}],"synonyms":[],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/cozen"]},{"word":"cozen","phonetic":"/ˈkʌzən/","phonetics":[{"text":"/ˈkʌzən/","audio":""}],"meanings":[{"partOfSpeech":"verb","definitions":[{"definition":"To cheat; to defraud; to deceive, usually by small arts, or in a pitiful way.","synonyms":["beguile"],"antonyms":[]}],"synonyms":["beguile"],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/cozen"]}]
+{
+  "word": "cozen",
+  "phonetic": "/ˈkəʊzən/",
+  "phonetics": [
+    {
+      "text": "/ˈkəʊzən/",
+      "audio": ""
+    },
+    {
+      "text": "/ˈkoʊzən/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "verb",
+      "definitions": [
+        {
+          "definition": "To become cozy; (by extension) to become acquainted, comfortable, or familiar with.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/cozen"
+  ]
+}

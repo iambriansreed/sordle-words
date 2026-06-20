@@ -1,1 +1,35 @@
-[{"word":"coati","phonetic":"/kəʊˈɑːti/","phonetics":[{"text":"/kəʊˈɑːti/","audio":""},{"text":"/koʊˈɑti/","audio":""}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"Any of several omnivorous mammals, of the genus Nasua or Nasuella, in order Carnivora, that live in the range from southern United States to northern Argentina.","synonyms":[],"antonyms":[]}],"synonyms":[],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/coati"]}]
+{
+  "word": "coati",
+  "phonetic": "/kəʊˈɑːti/",
+  "phonetics": [
+    {
+      "text": "/kəʊˈɑːti/",
+      "audio": ""
+    },
+    {
+      "text": "/koʊˈɑti/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "Any of several omnivorous mammals, of the genus Nasua or Nasuella, in order Carnivora, that live in the range from southern United States to northern Argentina.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/coati"
+  ]
+}

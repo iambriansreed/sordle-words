@@ -1,1 +1,51 @@
-[{"word":"aroma","phonetic":"/əˈɹəʊmə/","phonetics":[{"text":"/əˈɹəʊmə/","audio":""},{"text":"/əˈɹoʊmə/","audio":"https://api.dictionaryapi.dev/media/pronunciations/en/aroma-us.mp3","sourceUrl":"https://commons.wikimedia.org/w/index.php?curid=50422595","license":{"name":"BY-SA 4.0","url":"https://creativecommons.org/licenses/by-sa/4.0"}}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"A smell; especially a pleasant spicy or fragrant one.","synonyms":[],"antonyms":[],"example":"I love the aroma of cinnamon."}],"synonyms":["fragrance","nosegay","scent"],"antonyms":["odor","odour","pungency","reek","stench"]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/aroma"]}]
+{
+  "word": "aroma",
+  "phonetic": "/əˈɹəʊmə/",
+  "phonetics": [
+    {
+      "text": "/əˈɹəʊmə/",
+      "audio": ""
+    },
+    {
+      "text": "/əˈɹoʊmə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aroma-us.mp3",
+      "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=50422595",
+      "license": {
+        "name": "BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "A smell; especially a pleasant spicy or fragrant one.",
+          "synonyms": [],
+          "antonyms": [],
+          "example": "I love the aroma of cinnamon."
+        }
+      ],
+      "synonyms": [
+        "fragrance",
+        "nosegay",
+        "scent"
+      ],
+      "antonyms": [
+        "odor",
+        "odour",
+        "pungency",
+        "reek",
+        "stench"
+      ]
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/aroma"
+  ]
+}

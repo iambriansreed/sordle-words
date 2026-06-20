@@ -1,1 +1,46 @@
-[{"word":"decor","phonetic":"/ˈdeɪkɔː(ɹ)/","phonetics":[{"text":"/ˈdeɪkɔː(ɹ)/","audio":""},{"text":"/dɪˈkɔɹ/","audio":"https://api.dictionaryapi.dev/media/pronunciations/en/decor-us.mp3","sourceUrl":"https://commons.wikimedia.org/w/index.php?curid=892470","license":{"name":"BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"}}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"The style of decoration of a room or building.","synonyms":[],"antonyms":[],"example":"Her living room had a lush Persian-style decor."},{"definition":"A stage setting; scenery; set; backdrop.","synonyms":[],"antonyms":[]}],"synonyms":[],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/decor"]}]
+{
+  "word": "decor",
+  "phonetic": "/ˈdeɪkɔː(ɹ)/",
+  "phonetics": [
+    {
+      "text": "/ˈdeɪkɔː(ɹ)/",
+      "audio": ""
+    },
+    {
+      "text": "/dɪˈkɔɹ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/decor-us.mp3",
+      "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=892470",
+      "license": {
+        "name": "BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "The style of decoration of a room or building.",
+          "synonyms": [],
+          "antonyms": [],
+          "example": "Her living room had a lush Persian-style decor."
+        },
+        {
+          "definition": "A stage setting; scenery; set; backdrop.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/decor"
+  ]
+}

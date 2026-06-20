@@ -1,1 +1,37 @@
-[{"word":"oculi","phonetic":"/ˈɒk.jʊ.lʌɪ/","phonetics":[{"text":"/ˈɒk.jʊ.lʌɪ/","audio":""},{"text":"/ˈɑk.jəˌlaɪ/","audio":""}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"A window or other opening that has an oval or circular shape (as of an eye).","synonyms":[],"antonyms":[],"example":"One can glimpse the sky through the oculus of the Pantheon in Rome."}],"synonyms":[],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/oculi","https://en.wiktionary.org/wiki/oculus"]}]
+{
+  "word": "oculi",
+  "phonetic": "/ˈɒk.jʊ.lʌɪ/",
+  "phonetics": [
+    {
+      "text": "/ˈɒk.jʊ.lʌɪ/",
+      "audio": ""
+    },
+    {
+      "text": "/ˈɑk.jəˌlaɪ/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "A window or other opening that has an oval or circular shape (as of an eye).",
+          "synonyms": [],
+          "antonyms": [],
+          "example": "One can glimpse the sky through the oculus of the Pantheon in Rome."
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/oculi",
+    "https://en.wiktionary.org/wiki/oculus"
+  ]
+}

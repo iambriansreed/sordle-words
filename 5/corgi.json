@@ -1,1 +1,37 @@
-[{"word":"corgi","phonetic":"/ˈkɔːɡi/","phonetics":[{"text":"/ˈkɔːɡi/","audio":""},{"text":"/ˈkɔɹɡi/","audio":""}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"A dog of a breed having a small body, short legs and fox-like features.","synonyms":[],"antonyms":[]}],"synonyms":["Welsh corgi"],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/corgi"]}]
+{
+  "word": "corgi",
+  "phonetic": "/ˈkɔːɡi/",
+  "phonetics": [
+    {
+      "text": "/ˈkɔːɡi/",
+      "audio": ""
+    },
+    {
+      "text": "/ˈkɔɹɡi/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "A dog of a breed having a small body, short legs and fox-like features.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [
+        "Welsh corgi"
+      ],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/corgi"
+  ]
+}

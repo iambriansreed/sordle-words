@@ -1,1 +1,40 @@
-[{"word":"futon","phonetic":"/ˈfuːtɒn/","phonetics":[{"text":"/ˈfuːtɒn/","audio":""},{"text":"/ˈfutɑn/","audio":""}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"A thin mattress of tufted cotton or similar material, placed on a floor or on a raised, foldable frame as a bed.","synonyms":[],"antonyms":[]},{"definition":"A round cushion used for Zen meditation, traditionally made of woven bulrush leaves.","synonyms":[],"antonyms":[]}],"synonyms":[],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/futon"]}]
+{
+  "word": "futon",
+  "phonetic": "/ˈfuːtɒn/",
+  "phonetics": [
+    {
+      "text": "/ˈfuːtɒn/",
+      "audio": ""
+    },
+    {
+      "text": "/ˈfutɑn/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "A thin mattress of tufted cotton or similar material, placed on a floor or on a raised, foldable frame as a bed.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "definition": "A round cushion used for Zen meditation, traditionally made of woven bulrush leaves.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/futon"
+  ]
+}

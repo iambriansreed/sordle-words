@@ -1,1 +1,39 @@
-[{"word":"sorta","phonetic":"/ˈsɔːtə/","phonetics":[{"text":"/ˈsɔːtə/","audio":""},{"text":"/ˈsɔɹtə/","audio":""}],"meanings":[{"partOfSpeech":"adverb","definitions":[{"definition":"Approximately; in a way; partially; not quite; somewhat.","synonyms":[],"antonyms":[],"example":"It sort of makes sense the way he explains it, but I still don't really understand."}],"synonyms":["kind of"],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/sort%20of","https://en.wiktionary.org/wiki/sorta"]}]
+{
+  "word": "sorta",
+  "phonetic": "/ˈsɔːtə/",
+  "phonetics": [
+    {
+      "text": "/ˈsɔːtə/",
+      "audio": ""
+    },
+    {
+      "text": "/ˈsɔɹtə/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "adverb",
+      "definitions": [
+        {
+          "definition": "Approximately; in a way; partially; not quite; somewhat.",
+          "synonyms": [],
+          "antonyms": [],
+          "example": "It sort of makes sense the way he explains it, but I still don't really understand."
+        }
+      ],
+      "synonyms": [
+        "kind of"
+      ],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/sort%20of",
+    "https://en.wiktionary.org/wiki/sorta"
+  ]
+}

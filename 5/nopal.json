@@ -1,1 +1,38 @@
-[{"word":"nopal","phonetic":"/ˈnəʊpəl/","phonetics":[{"text":"/ˈnəʊpəl/","audio":""},{"text":"/noʊˈpɑl/","audio":""}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"A prickly pear cactus from the genus Opuntia, especially Opuntia cochinellifera; the edible pads (fleshy leaves) of the cactus, considered as food.","synonyms":[],"antonyms":[]}],"synonyms":["prickly pear","nopales"],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/nopal"]}]
+{
+  "word": "nopal",
+  "phonetic": "/ˈnəʊpəl/",
+  "phonetics": [
+    {
+      "text": "/ˈnəʊpəl/",
+      "audio": ""
+    },
+    {
+      "text": "/noʊˈpɑl/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "A prickly pear cactus from the genus Opuntia, especially Opuntia cochinellifera; the edible pads (fleshy leaves) of the cactus, considered as food.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [
+        "prickly pear",
+        "nopales"
+      ],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/nopal"
+  ]
+}

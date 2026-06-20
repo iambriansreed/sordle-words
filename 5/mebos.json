@@ -1,1 +1,35 @@
-[{"word":"mebos","phonetic":"/ˈmiːbɒs/","phonetics":[{"text":"/ˈmiːbɒs/","audio":""},{"text":"/ˈmibɔs/","audio":""}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"A type of sweet snack food consisting of dried apricot made into a pulp and flavoured with salt and sugar.","synonyms":[],"antonyms":[]}],"synonyms":[],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/mebos"]}]
+{
+  "word": "mebos",
+  "phonetic": "/ˈmiːbɒs/",
+  "phonetics": [
+    {
+      "text": "/ˈmiːbɒs/",
+      "audio": ""
+    },
+    {
+      "text": "/ˈmibɔs/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "A type of sweet snack food consisting of dried apricot made into a pulp and flavoured with salt and sugar.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/mebos"
+  ]
+}

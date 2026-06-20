@@ -1,1 +1,40 @@
-[{"word":"larch","phonetic":"/ˈlɑːtʃ/","phonetics":[{"text":"/ˈlɑːtʃ/","audio":""},{"text":"/ˈlɑɹtʃ/","audio":""}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"A coniferous tree, of genus Larix, having deciduous leaves, in fascicles.","synonyms":[],"antonyms":[]},{"definition":"The wood of the larch.","synonyms":[],"antonyms":[]}],"synonyms":[],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/larch"]}]
+{
+  "word": "larch",
+  "phonetic": "/ˈlɑːtʃ/",
+  "phonetics": [
+    {
+      "text": "/ˈlɑːtʃ/",
+      "audio": ""
+    },
+    {
+      "text": "/ˈlɑɹtʃ/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "A coniferous tree, of genus Larix, having deciduous leaves, in fascicles.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "definition": "The wood of the larch.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/larch"
+  ]
+}

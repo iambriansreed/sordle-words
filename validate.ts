@@ -59,6 +59,8 @@ function validate() {
     } catch (error) {
         console.error(`✗ Could not read ${OUTPUT_FILE}`);
     }
+
+    // ensure every 5/*.json returns a non-array
 }
 
 validate();

@@ -1,1 +1,79 @@
-[{"word":"adios","phonetic":"/ˌæ.diˈɒs/","phonetics":[{"text":"/ˌæ.diˈɒs/","audio":""},{"text":"/ˌɑ.diˈoʊs/","audio":""}],"meanings":[{"partOfSpeech":"interjection","definitions":[{"definition":"(in Spanish contexts) goodbye","synonyms":["addio","adieu","aloha","arrivederci","au revoir","auf Wiedersehen","ayubowan","bye","bye-bye","cheerio","cheers","ciao","do svidanya","farewell","good day","good-by","good-bye","goodbye","sayonara","shalom","so long"],"antonyms":[]}],"synonyms":["addio","adieu","aloha","arrivederci","au revoir","auf Wiedersehen","ayubowan","bye","bye-bye","cheerio","cheers","ciao","do svidanya","farewell","good day","good-by","good-bye","goodbye","sayonara","shalom","so long"],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/adios"]}]
+{
+  "word": "adios",
+  "phonetic": "/ˌæ.diˈɒs/",
+  "phonetics": [
+    {
+      "text": "/ˌæ.diˈɒs/",
+      "audio": ""
+    },
+    {
+      "text": "/ˌɑ.diˈoʊs/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "interjection",
+      "definitions": [
+        {
+          "definition": "(in Spanish contexts) goodbye",
+          "synonyms": [
+            "addio",
+            "adieu",
+            "aloha",
+            "arrivederci",
+            "au revoir",
+            "auf Wiedersehen",
+            "ayubowan",
+            "bye",
+            "bye-bye",
+            "cheerio",
+            "cheers",
+            "ciao",
+            "do svidanya",
+            "farewell",
+            "good day",
+            "good-by",
+            "good-bye",
+            "goodbye",
+            "sayonara",
+            "shalom",
+            "so long"
+          ],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [
+        "addio",
+        "adieu",
+        "aloha",
+        "arrivederci",
+        "au revoir",
+        "auf Wiedersehen",
+        "ayubowan",
+        "bye",
+        "bye-bye",
+        "cheerio",
+        "cheers",
+        "ciao",
+        "do svidanya",
+        "farewell",
+        "good day",
+        "good-by",
+        "good-bye",
+        "goodbye",
+        "sayonara",
+        "shalom",
+        "so long"
+      ],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/adios"
+  ]
+}

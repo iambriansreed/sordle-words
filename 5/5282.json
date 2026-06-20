@@ -1,1 +1,37 @@
-[{"word":"renin","phonetic":"/ˈɹiː.nɪn/","phonetics":[{"text":"/ˈɹiː.nɪn/","audio":""},{"text":"/ˈɹi.nɪn/","audio":""}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"A circulating enzyme released by mammalian kidneys that converts angiotensinogen to angiotensin-I. Because its activity ultimately leads to formation of angiotensin-II and aldosterone, this hormone plays a role in maintaining blood pressure.","synonyms":[],"antonyms":[]}],"synonyms":["angiotensinogenase"],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/renin"]}]
+{
+  "word": "renin",
+  "phonetic": "/ˈɹiː.nɪn/",
+  "phonetics": [
+    {
+      "text": "/ˈɹiː.nɪn/",
+      "audio": ""
+    },
+    {
+      "text": "/ˈɹi.nɪn/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "A circulating enzyme released by mammalian kidneys that converts angiotensinogen to angiotensin-I. Because its activity ultimately leads to formation of angiotensin-II and aldosterone, this hormone plays a role in maintaining blood pressure.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [
+        "angiotensinogenase"
+      ],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/renin"
+  ]
+}

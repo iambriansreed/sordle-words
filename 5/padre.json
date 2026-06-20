@@ -1,1 +1,36 @@
-[{"word":"padre","phonetic":"[ˈpʰɑdɹeɪ̯]","phonetics":[{"text":"[ˈpʰɑdɹeɪ̯]","audio":""}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"A military clergyman","synonyms":[],"antonyms":[]},{"definition":"A Roman Catholic or Anglican priest","synonyms":[],"antonyms":[]}],"synonyms":[],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/padre"]}]
+{
+  "word": "padre",
+  "phonetic": "[ˈpʰɑdɹeɪ̯]",
+  "phonetics": [
+    {
+      "text": "[ˈpʰɑdɹeɪ̯]",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "A military clergyman",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "definition": "A Roman Catholic or Anglican priest",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/padre"
+  ]
+}

@@ -1,1 +1,49 @@
-[{"word":"losel","phonetic":"/ˈləʊzəl/","phonetics":[{"text":"/ˈləʊzəl/","audio":""},{"text":"/ˈloʊzəl/","audio":""}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"A worthless or despicable person.","synonyms":[],"antonyms":[]}],"synonyms":["lidderon"],"antonyms":[]},{"partOfSpeech":"adjective","definitions":[{"definition":"Worthless; wasteful.","synonyms":[],"antonyms":[]}],"synonyms":[],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/losel"]}]
+{
+  "word": "losel",
+  "phonetic": "/ˈləʊzəl/",
+  "phonetics": [
+    {
+      "text": "/ˈləʊzəl/",
+      "audio": ""
+    },
+    {
+      "text": "/ˈloʊzəl/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "A worthless or despicable person.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [
+        "lidderon"
+      ],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definitions": [
+        {
+          "definition": "Worthless; wasteful.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/losel"
+  ]
+}

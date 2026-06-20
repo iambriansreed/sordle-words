@@ -1,1 +1,40 @@
-[{"word":"cacao","phonetic":"/kəˈkeɪ̯əʊ̯/","phonetics":[{"text":"/kəˈkeɪ̯əʊ̯/","audio":""},{"text":"/kəˈkaʊ̯/","audio":""}],"meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"A tree, Theobroma cacao, whose seed is used to make chocolate.","synonyms":[],"antonyms":[]},{"definition":"This tree's seed, the cocoa bean.","synonyms":[],"antonyms":[]}],"synonyms":[],"antonyms":[]}],"license":{"name":"CC BY-SA 3.0","url":"https://creativecommons.org/licenses/by-sa/3.0"},"sourceUrls":["https://en.wiktionary.org/wiki/cacao"]}]
+{
+  "word": "cacao",
+  "phonetic": "/kəˈkeɪ̯əʊ̯/",
+  "phonetics": [
+    {
+      "text": "/kəˈkeɪ̯əʊ̯/",
+      "audio": ""
+    },
+    {
+      "text": "/kəˈkaʊ̯/",
+      "audio": ""
+    }
+  ],
+  "meanings": [
+    {
+      "partOfSpeech": "noun",
+      "definitions": [
+        {
+          "definition": "A tree, Theobroma cacao, whose seed is used to make chocolate.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "definition": "This tree's seed, the cocoa bean.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "sourceUrls": [
+    "https://en.wiktionary.org/wiki/cacao"
+  ]
+}
